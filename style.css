@@ -136,6 +136,8 @@ h2{
     width: 250px;
     height: 200px;
 }
+/*index*/
+/*categoria*/
 
 #babyShower{
     display: flex;
@@ -184,6 +186,8 @@ h2{
     width: 250px;
     height: 200px;
 }
+/*categoria*/
+
 
 #envio{
     font-family: 'mi fuente';
@@ -199,6 +203,8 @@ h2{
     font-size: 30px;
     text-align: center;
 }
+
+/*articulo*/
 
 .articulos{
     width: 100%;
@@ -238,8 +244,9 @@ h2{
 
 .columna2 .clientes{
     margin-top: 5px;
-
 }
+/*articulos*/
+
 
 p{
 font-family: "mi fuente";
@@ -248,6 +255,7 @@ text-align: center;
 font-size: 20px;
 }
 
+/*contacto*/
 #redes ul{
     list-style: none;
     margin: 20px;
@@ -399,12 +407,14 @@ address{
     text-align: center;
     color: blueviolet;
 }
+/*contacto*/
 
 article p{
     font-family: 'mi fuente';
     font-size: 25px;
     color: blueviolet;
 }
+/* responsive  */
 
 @media (max-width:1440px){
     #portada{
@@ -519,7 +529,9 @@ article p{
     }
 
 }
+/* responsive  */
 
+/*
 #fila2{
     display: flex;
     justify-content:space-around;
@@ -529,9 +541,7 @@ article p{
     display: flex;
     justify-content:space-around;
 }
-
-
-/* index */
+*/
 
 /* footer */
 p{
@@ -543,9 +553,9 @@ p{
 /* footer */
 
 
-/* categoria */
 
 
+/*
 .categoria{
     width: 250px;
     height: 200px;
@@ -556,7 +566,7 @@ p{
     display: flex;
     justify-content:space-around;
 }
-
+*/
 .cardbaby{
     width: 250px;
     height: 200px;
@@ -807,7 +817,7 @@ address{
 /* mail/contacto*/
 
 
-/* responsive  */
+
 
 
 
