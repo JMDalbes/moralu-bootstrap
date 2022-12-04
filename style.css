@@ -1,6 +1,4 @@
 
-
-
 @font-face {
     font-family: mi fuente;
     src: url(fontos/GlacialIndifference-Regular.otf);
@@ -16,20 +14,11 @@ body{
     background-color: white;
 }
 
-#logo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 220px;
-    height: 94px;
-}
-
 h1{
     font-family:  "mi fuente";
     color: blueviolet;
     text-align: center;
 }
-
 
 h2{
     font-family: "mi fuente";
@@ -76,7 +65,6 @@ h2{
     width: 750px;
     height: 250px;
 }
-
 
 #menu ul{
     list-style: none;
@@ -125,7 +113,6 @@ h2{
     height: 200px;
 }
 
-
 #pag3{
     display: flex;
     flex-wrap: wrap;
@@ -149,7 +136,6 @@ h2{
     width: 250px;
     height: 200px;
 }
-
 
 #cumpleaños{
     display: flex;
@@ -208,7 +194,6 @@ h2{
 
 .articulos{
     width: 100%;
-
 }
 
 .row{
@@ -228,7 +213,6 @@ h2{
 
 .clientes{
     width: 100%;
-
 }
 
 .bloqueClientes{
@@ -256,6 +240,7 @@ font-size: 20px;
 }
 
 /*contacto*/
+
 #redes ul{
     list-style: none;
     margin: 20px;
@@ -289,7 +274,6 @@ font-size: 20px;
     border-radius: 4px;
     font-family: "mi fuente";
     color: white;
-
 }
 
 input{
@@ -313,40 +297,12 @@ textarea{
     background-color: #24303c
 }
 
-
-
 label{
     font-family: "mi fuente";
     font-size: large;
     color: blueviolet;
 }
 
-
-
-#fila1{
-    display: flex;
-    justify-content:space-around;
-}
-
-.card1{
-        width: 25%;
-        height: auto;
-}
-
-.card2{
-    width: 25%;
-    height: auto;
-}
-
-.card3{
-    width: 25%;
-    height: auto;
-}
-
-.card4{
-    width: 25%;
-    height: auto;
-}
 
 .form-register {
     /* width: 361px; */
@@ -379,7 +335,6 @@ label{
     height: 40px;
     text-align: center;
     font-size: 18px;
-
 }
 
 .form-Registro{
@@ -529,28 +484,7 @@ article p{
     }
 
 }
-/* responsive  */
 
-/*
-#fila2{
-    display: flex;
-    justify-content:space-around;
-}
-
-#fila3{
-    display: flex;
-    justify-content:space-around;
-}
-*/
-
-/* footer */
-p{
-    font-family: "mi fuente";
-    color: blueviolet;
-    text-align: center;
-    font-size: 20px;
-}
-/* footer */
 
 
 
@@ -689,6 +623,8 @@ p{
     -webkit-overflow-scrolling: touch;
 }
 
+
+/*
 .articulos{
     width: 95%;
 }
@@ -806,7 +742,7 @@ label{
 }
 
 
-
+*/
 
 /* mail/contacto */
 address{
